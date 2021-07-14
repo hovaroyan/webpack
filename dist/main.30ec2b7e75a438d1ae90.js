@@ -1,0 +1,1 @@
+(()=>{"use strict";(e=>{let a=[{name:"jack",age:25},{name:"dan",age:17},{name:"tony",age:22}].filter((e=>e.age>18));console.log(a)})(),(e=>{let a=[{team:"man utd",result:"win"},{team:"arsenal",result:"loose"},{team:"chelsea",result:"win"}].filter((e=>"win"===e.result));console.log(a)})()})();
